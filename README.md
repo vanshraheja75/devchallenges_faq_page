@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="[INSERT YOUR LIVE DEMO LINK HERE]">
+    <a href="https://devchallenges-simple-faq-challenge.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/[YOUR-USERNAME]/[REPO-NAME]">
+    <a href="https://github.com/vanshraheja75/devchallenges_faq_page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/mQcxIQ068G85M8G75kHh">
+    <a href="https://devchallenges.io/challenge/simple-faq-challenge">
       Challenge
     </a>
   </h3>
@@ -44,12 +44,12 @@ To run this project on your local machine:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/[REPO-NAME].git
+    git clone https://github.com/vanshraheja75/devchallenges_faq_page.git
     ```
 2.  Navigate to the project directory.
 3.  Open `index.html` in your browser.
 
 ## Contact
 
--   GitHub: [@your-username](https://github.com/your-username)
--   DevChallenges: [@your-username](https://devchallenges.io/portfolio/your-username)
+-   GitHub: [@vanshraheja75](https://github.com/vanshraheja75)
+-   DevChallenges: [@Vansh Raheja](https://devchallenges.io/profile/bab63f3b-2db6-4f0e-b427-6d5f7c7e3ab2)
